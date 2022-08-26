@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Nycolas-Galdino
-          svg_out_path: dist/github-contribution-grid-snake.svgcolor_snake=red&color_dots=#3B5999,#0084FF,#55ACEE,#0077B5,00AFF0
+          svg_out_path: dist/github-contribution-grid-snake.svg?color_snake=red&color_dots=#3B5999,#0084FF,#55ACEE,#0077B5,00AFF0
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
