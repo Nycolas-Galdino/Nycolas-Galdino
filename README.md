@@ -1,11 +1,15 @@
 <h1> Nycolas Pimentel Galdino
   <h2>Software Developer | Graduating in Software Engineering</h2>
-  
+ 
+ 
   <h3>Github Status
     <div style="display: inline-block">
    <p align="center"><img alt="Nycolas Github Stats"   src="https://github-readme-stats.vercel.app/api?username=Nycolas-Galdino&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <p align="center" >
     <img  alt="Nycolas streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Nycolas-Galdino&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
+  <p align="center" >
+    <img  alt="Nycolas Most Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-Galdino&theme=react&hide_border=true&bg_color=0D1117"/></a></p>
+    
 
 <a href="#"><img alt="Nycolas Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nycolas-Galdino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     </div>
