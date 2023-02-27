@@ -27,9 +27,8 @@
     <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/-Git-000?&logo=Git">    
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
-    <img src="https://img.shields.io/badge/-ReactJS-000?&logo=React">
+    <img src="https://img.shields.io/badge/-React%20Native-000?&logo=React">
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL">
-    <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite">
     </div>
 
   <h3>IDE's
