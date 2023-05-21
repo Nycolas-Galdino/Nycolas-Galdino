@@ -11,8 +11,7 @@
     <img  alt="Nycolas Most Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nycolas-Galdino&theme=react&hide_border=true&bg_color=0D1116"/></a></p>
     
 
-<a href="#"><img alt="Nycolas Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nycolas-Galdino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    </div>
+  <h3>Activity Status
     <img height="205em" src="https://github.com/Nycolas-Galdino/Nycolas-Galdino/blob/output/github-contribution-grid-snake.svg">
 
   <h3>Languages & Tools
@@ -21,14 +20,16 @@
     <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5">
     <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3">
     <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite">
+    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
+    <img src="https://img.shields.io/badge/-React%20Native-000?&logo=React">
     </div>
 
   <h3>Learning
     <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/-Git-000?&logo=Git">    
-    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
-    <img src="https://img.shields.io/badge/-React%20Native-000?&logo=React">
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL">
+    <img src="https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp">
+    <img src="https://img.shields.io/badge/-Node.JS-000?&logo=Node.JS">
     </div>
 
   <h3>IDE's
