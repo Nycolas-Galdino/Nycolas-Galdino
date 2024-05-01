@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=30C9FF&vCenter=true&random=false&width=435&lines=Hello+World!%F0%9F%91%8B;You're+Welcome!%F0%9F%98%86)](https://git.io/typing-svg)
 
-# I'm <span style="color: #30c9ff">Nycolas Galdino</span>
+<h1>Hi, I'm <a style="color: #30c9ff" href="https://www.linkedin.com/in/nycolas-pimentel/">Nycolas Galdino</a></h1>
 
 <p align="center">
 <img width="400" src="https://imgur.com/YtfQxHR.png"/>
