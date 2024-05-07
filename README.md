@@ -26,7 +26,7 @@ Hey there! I'm Nycolas Pimentel Galdino, a 20-year-old technology enthusiast. Si
   <code><a href="https://www.hackerrank.com/profile/nycolasgaldino" title="HackerRank Profile"><img width="12" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/nyck_galdino/" title="Instagram Profile"><img width="12" src="https://imgur.com/tpysV3g.png"> Instagram</a></code>
   <code><a href="https://wa.me/5541991476184" title="WhatsApp"><img width="12" src="https://clipart.info/images/ccovers/1499955335whatsapp-icon-logo-png.png"> WhatsApp</a></code>
-  <code><a href="email:nycolaspimentel12@gmail.com" title="E-Mail"><img width="12" src="https://imgur.com/mFvGtnb.png"> E-mail</a></code>
+  <code><a href="mailto:nycolaspimentel12@gmail.com" title="E-Mail"><img width="12" src="https://imgur.com/mFvGtnb.png"> E-mail</a></code>
 </h3>
 
 ## 📘 My Top Open Source Projects
