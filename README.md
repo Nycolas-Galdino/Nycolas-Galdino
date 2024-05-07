@@ -34,14 +34,13 @@ Hey there! I'm Nycolas Pimentel Galdino, a 20-year-old technology enthusiast. Si
 <details open>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/nycolas-galdino/github-readme-stats -->
   <p align="center">
-    <a href="https://github.com/nycolas-galdino/S.A.I.T.O"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=S.A.I.T.O&theme=react&bg_color=1F222E&hide_border=true&show_icons=false" alt="S.A.I.T.O Project"></a>
-    <a href="https://github.com/nycolas-galdino/Jokenpo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Jokenpo&theme=react&bg_color=1F222E&hide_border=true&show_icons=false" alt="Jokenpo Project"></a>
-    <a href="https://github.com/nycolas-galdino/Converter-texto-PDF"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Converter-texto-PDF&theme=react&bg_color=1F222E&hide_border=true&show_icons=false" alt="TransPy Project"></a>
-    <a href="https://github.com/nycolas-galdino/todolist"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=todolist&theme=react&bg_color=1F222E&hide_border=true&show_icons=false" alt="ToDo List Project"></a>
-    <a href="https://github.com/nycolas-galdino/Binary-Tree"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Binary-Tree&theme=react&bg_color=1F222E&hide_border=true&show_icons=false" alt="Binary-Tree Project"></a>
-    <a href="https://github.com/nycolas-galdino/Calculadora"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Calculadora&theme=react&bg_color=1F222E&hide_border=true&show_icons=false" alt="Calculadora Project"></a>
+    <a href="https://github.com/nycolas-galdino/S.A.I.T.O"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=S.A.I.T.O&theme=react&bg_color=1F222E" alt="S.A.I.T.O Project"></a>
+    <a href="https://github.com/nycolas-galdino/Jokenpo"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Jokenpo&theme=react&bg_color=1F222E" alt="Jokenpo Project"></a>
+    <a href="https://github.com/nycolas-galdino/Converter-texto-PDF"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Converter-texto-PDF&theme=react&bg_color=1F222E" alt="TransPy Project"></a>
+    <a href="https://github.com/nycolas-galdino/todolist"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=todolist&theme=react&bg_color=1F222E" alt="ToDo List Project"></a>
+    <a href="https://github.com/nycolas-galdino/Binary-Tree"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Binary-Tree&theme=react&bg_color=1F222E" alt="Binary-Tree Project"></a>
+    <a href="https://github.com/nycolas-galdino/Calculadora"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Calculadora&theme=react&bg_color=1F222E" alt="Calculadora Project"></a>
   </p>
 
   <p align="center">
