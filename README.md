@@ -40,7 +40,7 @@ Hey there! I'm Nycolas Pimentel Galdino, a 20-year-old technology enthusiast. Si
     <a href="https://github.com/nycolas-galdino/Converter-texto-PDF"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Converter-texto-PDF&theme=react&bg_color=1F222E" alt="TransPy Project"></a>
     <a href="https://github.com/nycolas-galdino/todolist"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=todolist&theme=react&bg_color=1F222E" alt="ToDo List Project"></a>
     <a href="https://github.com/nycolas-galdino/Binary-Tree"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Binary-Tree&theme=react&bg_color=1F222E" alt="Binary-Tree Project"></a>
-    <a href="https://github.com/nycolas-galdino/Calculadora"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Calculadora&theme=react&bg_color=1F222E" alt="Calculadora Project"></a>
+    <a href="https://github.com/nycolas-galdino/AutoDin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=AutoDin&theme=react&bg_color=1F222E" alt="AutoDin Project"></a>
   </p>
 
   <p align="center">
