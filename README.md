@@ -24,6 +24,7 @@ Hey there! I'm Nycolas Pimentel Galdino, a 20-year-old technology enthusiast. Si
 <h3 align="center">
   <code><a href="https://www.linkedin.com/in/nycolas-pimentel/" title="LinkedIn Profile"><img width="12" src="https://imgur.com/OQUXwNp.png"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/nycolasgaldino" title="HackerRank Profile"><img width="12" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088"> HackerRank</a></code>
+  <code><a href="https://codeium.com/profile/nycolas-galdino" title="Codeium Profile"><img width="12" src="https://codeium.com/logo/codeium_logo.png"> Codeium</a></code>
   <code><a href="https://www.instagram.com/nyck_galdino/" title="Instagram Profile"><img width="12" src="https://imgur.com/tpysV3g.png"> Instagram</a></code>
   <code><a href="https://wa.me/5541991476184" title="WhatsApp"><img width="12" src="https://clipart.info/images/ccovers/1499955335whatsapp-icon-logo-png.png"> WhatsApp</a></code>
   <code><a href="mailto:nycolaspimentel12@gmail.com" title="E-Mail"><img width="12" src="https://imgur.com/mFvGtnb.png"> E-mail</a></code>
@@ -103,5 +104,14 @@ Hey there! I'm Nycolas Pimentel Galdino, a 20-year-old technology enthusiast. Si
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="nycolas-galdino's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nycolas-galdino&theme=react-dark&bg_color=20232a&hide_border=true" /></a></p>
+
+  <hr>
+
+  #### My Codeium card
+  [![Codeium card](https://codeium.com/profile/nycolas-galdino/card.png)](https://codeium.com/profile/nycolas-galdino)
+  [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
+  [![autocomplete](https://codeium.com/badges/user/nycolas-galdino/autocomplete)](https://codeium.com/profile/nycolas-galdino)
+  [![streak](https://codeium.com/badges/v2/user/nycolas-galdino/streak)](https://codeium.com/profile/nycolas-galdino)
 
 </details>
