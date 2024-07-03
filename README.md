@@ -42,10 +42,11 @@ Hey there! I'm Nycolas Pimentel Galdino, a 20-year-old technology enthusiast. Si
     <a href="https://github.com/nycolas-galdino/todolist"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=todolist&theme=react&bg_color=1F222E" alt="ToDo List Project"></a>
     <a href="https://github.com/nycolas-galdino/Binary-Tree"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=Binary-Tree&theme=react&bg_color=1F222E" alt="Binary-Tree Project"></a>
     <a href="https://github.com/nycolas-galdino/AutoDin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=AutoDin&theme=react&bg_color=1F222E" alt="AutoDin Project"></a>
+    <a href="https://github.com/nycolas-galdino/WebScraping-Magalu"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Nycolas-Galdino&repo=WebScraping-Magalu&theme=react&bg_color=1F222E" alt="WebScraping-Magalu Project"></a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/nycolas-galdino?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/nycolas-galdino?tWebScraping-Magalu=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 </details>
 
