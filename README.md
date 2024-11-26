@@ -30,6 +30,12 @@ Hey there! I'm Nycolas Pimentel Galdino, a 20-year-old technology enthusiast. Si
   <code><a href="mailto:nycolaspimentel12@gmail.com" title="E-Mail"><img width="12" src="https://imgur.com/mFvGtnb.png"> E-mail</a></code>
 </h3>
 
+<hr>
+<div align="center">
+  <a href="https://app.daily.dev/saitoshion"><img src="https://api.daily.dev/devcards/v2/DsbnFGQy4juTOgu6dzQI9.png?type=default&r=7v5" width="318" alt="Saito Shion's Dev Card"/></a>
+  <h4>My daily.dev card</p>
+</div>
+
 ## 📘 My Top Open Source Projects
 
 <details open>
